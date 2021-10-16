@@ -7,7 +7,7 @@
 
 The app lets you maximize the reactant conversion in a plug-flow tubular reactor by solving an optimal control problem via a single-shooting approach. The optimization problem is a classic benchmark problem. Details can be found in my [PhD thesis](https://opus4.kobv.de/opus4-fau/frontdoor/index/index/year/2020/docId/14432).
 
-You can run the app locally, or check out the deployed version on Heroku [here](http://reactoropt.herokuapp.com/)
+You can run the app locally, or check out the deployed version on Heroku [here](http://reactoropt.herokuapp.com/).
 
 ## Running the app locally
 
