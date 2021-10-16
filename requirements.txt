@@ -1,7 +1,7 @@
 numpy
 pandas
-matplotlib
 scipy
 dash
 dash-bootstrap-components
 pre-commit
+gunicorn
