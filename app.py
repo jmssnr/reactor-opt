@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output, State
 from model import OCP
 
 # Specify list of external stylesheets
-external_stylesheets = [dbc.themes.COSMO, "assets/segmentation-style.css"]
+external_stylesheets = [dbc.themes.COSMO]
 
 # Create dash instance
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
