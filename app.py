@@ -111,7 +111,12 @@ output_card = dbc.Card(
         dbc.CardBody(
             [
                 dcc.Loading(
-                    dcc.Graph(id="results-graph", style={"height": "400px"}), type="dot"
+                    dcc.Graph(
+                        id="results-graph",
+                        config={"displayModeBar": False},
+                        style={"height": "400px"},
+                    ),
+                    type="dot",
                 )
             ]
         ),
