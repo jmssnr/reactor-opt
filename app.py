@@ -43,7 +43,7 @@ github_button = (
         "View Code",
         outline=True,
         color="info",
-        href="https://github.com/jmssnr/reasim",
+        href="https://github.com/jmssnr/reactor-opt",
         id="gh-link",
         style={"width": "150px"},
     ),
